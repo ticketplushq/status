@@ -1,31 +1,40 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ticketplushq
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Ticketing (CHL1)
+    icon: https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png
+    url: $TICKETING_CHL1_ENDPOINT
+  - name: Ticketing (ARG1)
+    icon: https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png
+    url: $TICKETING_ARG1_ENDPOINT
+  - name: Ticketing (ARG2)
+    icon: https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png
+    url: $TICKETING_ARG1_ENDPOINT
+  - name: Ticketing (PYG1)
+    icon: https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png
+    url: $TICKETING_PYG1_ENDPOINT
+  - name: Cashless
+    url: $CASHLESS_ENDPOINT
+  - name: Netlink
+    url: $NETLINK_ENDPOINT
+  - name: Streame
+    url: $STREAME_ENDPOINT
+  - name: Vpass
+    url: $VPASS_ENDPOINT
+  - name: Reports
+    url: $REPORTS_ENDPOINT
+  - name: Enqueue
+    url: $ENQUEUE_ENDPOINT
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  publish: true
+  cname: status.ticketplus.global
+  logoUrl: https://avatars.githubusercontent.com/u/30219716?s=200&v=4
+  name: Ticketplus Global Status
+  introTitle: "**Ticketplus Global Status** is the uptime monitor and status page, powered entirely by Upptime and Github."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
