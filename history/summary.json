@@ -4,18 +4,20 @@
     "url": "$TICKETING_CHL1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-chl-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 137,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
-    "dailyMinutesDown": {}
+    "time": 134,
+    "timeDay": 131,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   },
   {
     "name": "Ticketing (ARG1)",
