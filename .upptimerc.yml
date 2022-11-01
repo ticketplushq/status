@@ -10,7 +10,7 @@ sites:
     url: $TICKETING_ARG1_ENDPOINT
   - name: Ticketing (ARG2)
     icon: https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png
-    url: $TICKETING_ARG1_ENDPOINT
+    url: $TICKETING_ARG2_ENDPOINT
   - name: Ticketing (PYG1)
     icon: https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png
     url: $TICKETING_PYG1_ENDPOINT
