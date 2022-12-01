@@ -82,19 +82,19 @@
     "url": "$CASHLESS_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cashless",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 5074,
-    "timeWeek": 1162,
-    "timeMonth": 527,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 410,
+    "timeDay": 3571,
+    "timeWeek": 1108,
+    "timeMonth": 528,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2022-12-01": 0
+      "2022-12-01": 10
     }
   },
   {
