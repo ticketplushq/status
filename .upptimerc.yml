@@ -24,6 +24,8 @@ sites:
     url: $VPASS_ENDPOINT
   - name: Reports
     url: $REPORTS_ENDPOINT
+  - name: Pagolatam
+    url: $PAGOLATAM_ENDPOINT
   - name: Enqueue
     url: $ENQUEUE_ENDPOINT
 
