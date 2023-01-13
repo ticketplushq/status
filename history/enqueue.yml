@@ -1,7 +1,7 @@
 url: $ENQUEUE_ENDPOINT
-status: up
-code: 204
-responseTime: 190
-lastUpdated: 2023-01-12T23:03:00.791Z
+status: down
+code: 503
+responseTime: 182
+lastUpdated: 2023-01-13T09:41:21.732Z
 startTime: Fri Oct 14 2022 20:44:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
