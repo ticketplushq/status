@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 283,
     "timeDay": 350,
-    "timeWeek": 327,
+    "timeWeek": 330,
     "timeMonth": 335,
     "timeYear": 283,
     "dailyMinutesDown": {
@@ -24,18 +24,19 @@
     "url": "$TICKETING_ARG1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 465,
-    "timeDay": 388,
-    "timeWeek": 1004,
-    "timeMonth": 614,
+    "timeDay": 410,
+    "timeWeek": 1072,
+    "timeMonth": 609,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2023-01-20": 0,
       "2022-11-01": 96
     }
   },
@@ -52,7 +53,7 @@
     "uptimeYear": "99.91%",
     "time": 317,
     "timeDay": 542,
-    "timeWeek": 345,
+    "timeWeek": 357,
     "timeMonth": 358,
     "timeYear": 317,
     "dailyMinutesDown": {
@@ -73,7 +74,7 @@
     "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 627,
-    "timeWeek": 372,
+    "timeWeek": 377,
     "timeMonth": 413,
     "timeYear": 363,
     "dailyMinutesDown": {}
@@ -91,7 +92,7 @@
     "uptimeYear": "99.93%",
     "time": 373,
     "timeDay": 346,
-    "timeWeek": 286,
+    "timeWeek": 305,
     "timeMonth": 341,
     "timeYear": 373,
     "dailyMinutesDown": {
@@ -111,7 +112,7 @@
     "uptimeYear": "99.96%",
     "time": 242,
     "timeDay": 396,
-    "timeWeek": 211,
+    "timeWeek": 222,
     "timeMonth": 277,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -131,7 +132,7 @@
     "uptimeYear": "99.97%",
     "time": 242,
     "timeDay": 355,
-    "timeWeek": 215,
+    "timeWeek": 225,
     "timeMonth": 299,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -151,7 +152,7 @@
     "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 396,
-    "timeWeek": 230,
+    "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 225,
     "dailyMinutesDown": {}
@@ -212,7 +213,7 @@
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 225,
-    "timeWeek": 939,
+    "timeWeek": 1077,
     "timeMonth": 462,
     "timeYear": 263,
     "dailyMinutesDown": {}
