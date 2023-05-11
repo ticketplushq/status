@@ -209,19 +209,19 @@
     "url": "$ENQUEUE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "enqueue",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 50,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 212,
+    "timeDay": 112,
     "timeWeek": 172,
-    "timeMonth": 156,
-    "timeYear": 213,
+    "timeMonth": 157,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2023-05-11": 0
+      "2023-05-11": 29
     }
   }
 ]
