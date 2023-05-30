@@ -5,18 +5,17 @@
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-chl-1",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 307,
     "timeDay": 478,
     "timeWeek": 267,
     "timeMonth": 286,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-05-29": 7,
       "2023-03-12": 28,
       "2022-10-18": 15
     }
