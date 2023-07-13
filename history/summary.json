@@ -4,10 +4,10 @@
     "url": "$TICKETING_CHL1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-chl-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 303,
@@ -16,6 +16,7 @@
     "timeMonth": 286,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2023-07-13": 1,
       "2023-03-12": 28,
       "2022-10-18": 15
     }
@@ -25,9 +26,9 @@
     "url": "$TICKETING_ARG1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +38,7 @@
     "timeMonth": 287,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-03-12": 28,
       "2022-11-01": 96
     }
@@ -46,18 +48,19 @@
     "url": "$TICKETING_ARG2_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 316,
-    "timeDay": 353,
-    "timeWeek": 408,
-    "timeMonth": 325,
+    "timeDay": 277,
+    "timeWeek": 382,
+    "timeMonth": 321,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-03-12": 44,
       "2023-01-18": 31,
       "2022-11-01": 89
@@ -68,18 +71,20 @@
     "url": "$TICKETING_PYG1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-pyg-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 349,
-    "timeWeek": 498,
-    "timeMonth": 358,
-    "timeYear": 354,
-    "dailyMinutesDown": {}
+    "time": 353,
+    "timeDay": 246,
+    "timeWeek": 453,
+    "timeMonth": 351,
+    "timeYear": 353,
+    "dailyMinutesDown": {
+      "2023-07-13": 0
+    }
   },
   {
     "name": "Cashless",
