@@ -1,7 +1,7 @@
 url: $REPORTS_ENDPOINT
 status: up
 code: 200
-responseTime: 165
-lastUpdated: 2023-11-07T23:02:58.046Z
+responseTime: 149
+lastUpdated: 2023-11-08T23:02:49.089Z
 startTime: 2022-10-14T20:44:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
