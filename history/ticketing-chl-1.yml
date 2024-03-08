@@ -1,7 +1,7 @@
 url: $TICKETING_CHL1_ENDPOINT
 status: up
 code: 204
-responseTime: 503
-lastUpdated: 2024-03-07T23:03:00.701Z
+responseTime: 180
+lastUpdated: 2024-03-08T23:02:47.532Z
 startTime: 2022-10-14T20:44:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
