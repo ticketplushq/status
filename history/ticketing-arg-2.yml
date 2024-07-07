@@ -1,7 +1,7 @@
 url: $TICKETING_ARG2_ENDPOINT
 status: up
 code: 204
-responseTime: 269
-lastUpdated: 2024-07-06T23:02:50.946Z
+responseTime: 470
+lastUpdated: 2024-07-07T23:02:53.184Z
 startTime: 2022-10-14T20:44:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
