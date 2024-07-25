@@ -1,7 +1,7 @@
 url: $VPASS_ENDPOINT
-status: up
-code: 204
-responseTime: 371
-lastUpdated: 2024-07-24T23:03:14.707Z
+status: down
+code: 403
+responseTime: 44
+lastUpdated: 2024-07-25T14:53:32.738Z
 startTime: 2022-10-14T20:44:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
