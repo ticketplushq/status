@@ -1,7 +1,7 @@
 url: $STREAME_ENDPOINT
-status: down
-code: 403
-responseTime: 207
-lastUpdated: 2024-07-25T14:53:30.809Z
+status: up
+code: 204
+responseTime: 564
+lastUpdated: 2024-07-25T17:23:33.652Z
 startTime: 2022-10-14T20:44:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
