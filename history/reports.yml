@@ -1,7 +1,7 @@
 url: $REPORTS_ENDPOINT
-status: down
-code: 503
-responseTime: 410
-lastUpdated: 2024-09-24T14:26:52.630Z
+status: up
+code: 200
+responseTime: 282
+lastUpdated: 2024-09-24T14:36:40.049Z
 startTime: 2022-10-14T20:44:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
