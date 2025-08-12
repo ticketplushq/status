@@ -5,19 +5,17 @@
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-chl-1",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 447,
-    "timeWeek": 364,
-    "timeMonth": 398,
+    "time": 317,
+    "timeDay": 492,
+    "timeWeek": 374,
+    "timeMonth": 391,
     "timeYear": 324,
-    "dailyMinutesDown": {
-      "2025-08-11": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ticketing (ARG1)",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 397,
-    "timeDay": 267,
-    "timeWeek": 354,
-    "timeMonth": 412,
+    "timeDay": 224,
+    "timeWeek": 369,
+    "timeMonth": 396,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2024-09-02": 24
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 168,
+    "timeDay": 204,
     "timeWeek": 310,
-    "timeMonth": 415,
+    "timeMonth": 405,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2024-09-02": 24
@@ -71,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 138,
-    "timeWeek": 294,
-    "timeMonth": 428,
-    "timeYear": 390,
+    "timeDay": 210,
+    "timeWeek": 285,
+    "timeMonth": 414,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2024-09-02": 24
     }
@@ -91,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 182,
-    "timeWeek": 299,
-    "timeMonth": 376,
-    "timeYear": 303,
+    "timeDay": 123,
+    "timeWeek": 294,
+    "timeMonth": 364,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2024-11-28": 19
     }
@@ -111,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 301,
-    "timeDay": 210,
+    "timeDay": 110,
     "timeWeek": 327,
-    "timeMonth": 353,
-    "timeYear": 305,
+    "timeMonth": 338,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2024-09-30": 40
     }
@@ -131,10 +129,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 92,
-    "timeWeek": 265,
-    "timeMonth": 359,
-    "timeYear": 291,
+    "timeDay": 170,
+    "timeWeek": 259,
+    "timeMonth": 345,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -149,10 +147,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 187,
-    "timeWeek": 223,
-    "timeMonth": 319,
-    "timeYear": 269,
+    "timeDay": 104,
+    "timeWeek": 227,
+    "timeMonth": 310,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   },
   {
@@ -167,9 +165,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 454,
-    "timeDay": 274,
-    "timeWeek": 375,
-    "timeMonth": 551,
+    "timeDay": 445,
+    "timeWeek": 411,
+    "timeMonth": 540,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2025-02-28": 54,
@@ -196,10 +194,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 170,
-    "timeWeek": 257,
-    "timeMonth": 325,
-    "timeYear": 267,
+    "timeDay": 137,
+    "timeWeek": 234,
+    "timeMonth": 317,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -214,9 +212,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 264,
-    "timeWeek": 246,
-    "timeMonth": 351,
+    "timeDay": 222,
+    "timeWeek": 261,
+    "timeMonth": 342,
     "timeYear": 284,
     "dailyMinutesDown": {}
   }
