@@ -42,19 +42,19 @@
     "url": "$TICKETING_ARG2_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 314,
-    "timeWeek": 236,
-    "timeMonth": 307,
-    "timeYear": 381,
+    "time": 396,
+    "timeDay": 253,
+    "timeWeek": 230,
+    "timeMonth": 303,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-09-29": 0
+      "2025-09-29": 10
     }
   },
   {
