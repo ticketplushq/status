@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 317,
-    "timeDay": 257,
-    "timeWeek": 246,
-    "timeMonth": 295,
+    "timeDay": 328,
+    "timeWeek": 259,
+    "timeMonth": 296,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-09-28": 39
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 314,
-    "timeWeek": 324,
-    "timeMonth": 368,
-    "timeYear": 418,
+    "timeDay": 517,
+    "timeWeek": 353,
+    "timeMonth": 374,
+    "timeYear": 419,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +44,16 @@
     "slug": "ticketing-arg-2",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 253,
-    "timeWeek": 230,
-    "timeMonth": 303,
+    "timeDay": 236,
+    "timeWeek": 237,
+    "timeMonth": 305,
     "timeYear": 380,
-    "dailyMinutesDown": {
-      "2025-09-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ticketing (PYG1)",
@@ -68,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 254,
-    "timeWeek": 283,
-    "timeMonth": 406,
+    "time": 385,
+    "timeDay": 291,
+    "timeWeek": 300,
+    "timeMonth": 404,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -87,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 301,
-    "timeWeek": 276,
-    "timeMonth": 297,
-    "timeYear": 313,
+    "timeDay": 284,
+    "timeWeek": 277,
+    "timeMonth": 296,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2024-11-28": 19
     }
@@ -106,14 +104,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 307,
-    "timeDay": 277,
-    "timeWeek": 247,
-    "timeMonth": 308,
-    "timeYear": 311,
-    "dailyMinutesDown": {
-      "2024-09-30": 40
-    }
+    "time": 306,
+    "timeDay": 357,
+    "timeWeek": 270,
+    "timeMonth": 311,
+    "timeYear": 312,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Streame",
@@ -127,10 +123,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 305,
-    "timeWeek": 241,
-    "timeMonth": 264,
-    "timeYear": 296,
+    "timeDay": 208,
+    "timeWeek": 255,
+    "timeMonth": 263,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   },
   {
@@ -145,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 290,
-    "timeWeek": 243,
-    "timeMonth": 244,
+    "timeDay": 154,
+    "timeWeek": 229,
+    "timeMonth": 242,
     "timeYear": 274,
     "dailyMinutesDown": {}
   },
@@ -162,10 +158,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 485,
-    "timeDay": 268,
-    "timeWeek": 315,
-    "timeMonth": 413,
+    "time": 486,
+    "timeDay": 397,
+    "timeWeek": 327,
+    "timeMonth": 416,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2025-02-28": 54,
@@ -186,9 +182,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 491,
-    "timeWeek": 260,
-    "timeMonth": 333,
+    "timeDay": 257,
+    "timeWeek": 265,
+    "timeMonth": 328,
     "timeYear": 281,
     "dailyMinutesDown": {}
   },
@@ -204,8 +200,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 493,
-    "timeWeek": 260,
+    "timeDay": 324,
+    "timeWeek": 251,
     "timeMonth": 275,
     "timeYear": 285,
     "dailyMinutesDown": {}
