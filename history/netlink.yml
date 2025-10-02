@@ -1,7 +1,7 @@
 url: $NETLINK_ENDPOINT
-status: up
-code: 200
-responseTime: 422
-lastUpdated: 2025-10-01T23:03:05.219Z
+status: down
+code: 503
+responseTime: 232
+lastUpdated: 2025-10-02T19:33:48.368Z
 startTime: 2022-10-14T20:44:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
