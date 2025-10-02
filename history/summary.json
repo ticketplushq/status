@@ -98,18 +98,20 @@
     "url": "$NETLINK_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "netlink",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 422,
-    "timeWeek": 360,
-    "timeMonth": 317,
+    "timeDay": 327,
+    "timeWeek": 344,
+    "timeMonth": 314,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "Streame",
