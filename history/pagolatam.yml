@@ -1,7 +1,7 @@
 url: $PAGOLATAM_ENDPOINT
-status: down
-code: 503
-responseTime: 434
-lastUpdated: 2025-10-20T06:54:00.351Z
+status: up
+code: 200
+responseTime: 260
+lastUpdated: 2025-10-20T07:03:20.862Z
 startTime: 2022-12-16T19:54:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
