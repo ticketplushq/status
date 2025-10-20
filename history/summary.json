@@ -175,19 +175,19 @@
     "url": "$PAGOLATAM_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pagolatam",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 396,
-    "timeWeek": 336,
-    "timeMonth": 291,
+    "timeDay": 351,
+    "timeWeek": 328,
+    "timeMonth": 290,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-10-20": 1
+      "2025-10-20": 9
     }
   },
   {
