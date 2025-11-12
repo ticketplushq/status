@@ -134,19 +134,19 @@
     "url": "$VPASS_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpass",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 527,
-    "timeWeek": 242,
-    "timeMonth": 314,
+    "time": 277,
+    "timeDay": 505,
+    "timeWeek": 272,
+    "timeMonth": 319,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-11-12": 2
+      "2025-11-12": 10
     }
   },
   {
@@ -177,19 +177,19 @@
     "url": "$PAGOLATAM_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pagolatam",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 393,
-    "timeWeek": 221,
-    "timeMonth": 287,
+    "timeDay": 375,
+    "timeWeek": 238,
+    "timeMonth": 289,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-11-12": 0
+      "2025-11-12": 9
     }
   },
   {
