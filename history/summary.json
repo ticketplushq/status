@@ -134,10 +134,10 @@
     "url": "$VPASS_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
@@ -145,7 +145,9 @@
     "timeWeek": 242,
     "timeMonth": 314,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 2
+    }
   },
   {
     "name": "Reports",
@@ -175,9 +177,9 @@
     "url": "$PAGOLATAM_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pagolatam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -186,7 +188,9 @@
     "timeWeek": 221,
     "timeMonth": 287,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   },
   {
     "name": "Enqueue",
