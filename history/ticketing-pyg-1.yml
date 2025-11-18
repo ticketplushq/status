@@ -1,7 +1,7 @@
 url: $TICKETING_PYG1_ENDPOINT
-status: down
-code: 500
-responseTime: 217
-lastUpdated: 2025-11-18T11:49:39.125Z
+status: up
+code: 204
+responseTime: 349
+lastUpdated: 2025-11-18T12:14:17.722Z
 startTime: 2022-10-14T20:44:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
