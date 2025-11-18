@@ -4,18 +4,19 @@
     "url": "$TICKETING_CHL1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-chl-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 323,
+    "time": 322,
     "timeDay": 201,
-    "timeWeek": 318,
-    "timeMonth": 314,
-    "timeYear": 338,
+    "timeWeek": 303,
+    "timeMonth": 311,
+    "timeYear": 337,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-09-28": 39
     }
   },
@@ -24,18 +25,20 @@
     "url": "$TICKETING_ARG1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 296,
-    "timeWeek": 392,
-    "timeMonth": 369,
-    "timeYear": 425,
-    "dailyMinutesDown": {}
+    "timeDay": 285,
+    "timeWeek": 378,
+    "timeMonth": 366,
+    "timeYear": 424,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Ticketing (ARG2)",
@@ -44,9 +47,9 @@
     "slug": "ticketing-arg-2",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 403,
     "timeDay": 161,
@@ -54,7 +57,7 @@
     "timeMonth": 319,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -64,9 +67,9 @@
     "slug": "ticketing-pyg-1",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 386,
     "timeDay": 176,
@@ -74,7 +77,7 @@
     "timeMonth": 371,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -82,18 +85,19 @@
     "url": "$CASHLESS_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cashless",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 179,
-    "timeWeek": 335,
-    "timeMonth": 313,
+    "timeDay": 189,
+    "timeWeek": 318,
+    "timeMonth": 310,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2024-11-28": 19
     }
   },
@@ -104,9 +108,9 @@
     "slug": "netlink",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 309,
     "timeDay": 171,
@@ -114,7 +118,7 @@
     "timeMonth": 277,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -122,36 +126,40 @@
     "url": "$STREAME_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "streame",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 181,
-    "timeWeek": 273,
-    "timeMonth": 280,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 295,
+    "timeDay": 128,
+    "timeWeek": 248,
+    "timeMonth": 273,
+    "timeYear": 301,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Vpass",
     "url": "$VPASS_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 90,
-    "timeWeek": 308,
-    "timeMonth": 291,
+    "time": 275,
+    "timeDay": 146,
+    "timeWeek": 296,
+    "timeMonth": 288,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Reports",
@@ -160,9 +168,9 @@
     "slug": "reports",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 498,
     "timeDay": 144,
@@ -170,7 +178,7 @@
     "timeMonth": 439,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 8,
       "2025-02-28": 54,
       "2025-02-26": 80,
       "2025-02-24": 23,
@@ -184,9 +192,9 @@
     "slug": "pagolatam",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 192,
@@ -194,7 +202,7 @@
     "timeMonth": 271,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -203,10 +211,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "enqueue",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 225,
@@ -214,7 +222,7 @@
     "timeMonth": 311,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   }
 ]
