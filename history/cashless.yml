@@ -1,7 +1,7 @@
 url: $CASHLESS_ENDPOINT
-status: up
-code: 200
-responseTime: 266
-lastUpdated: 2025-11-18T12:14:20.531Z
+status: down
+code: 500
+responseTime: 392
+lastUpdated: 2025-11-18T13:12:13.132Z
 startTime: 2022-10-14T20:44:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
