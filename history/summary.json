@@ -24,19 +24,19 @@
     "url": "$TICKETING_ARG1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 233,
-    "timeWeek": 388,
-    "timeMonth": 368,
+    "timeDay": 296,
+    "timeWeek": 392,
+    "timeMonth": 369,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "$NETLINK_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "netlink",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 73,
-    "timeWeek": 283,
-    "timeMonth": 278,
+    "time": 310,
+    "timeDay": 213,
+    "timeWeek": 306,
+    "timeMonth": 284,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
