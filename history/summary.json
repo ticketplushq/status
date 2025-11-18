@@ -24,18 +24,20 @@
     "url": "$TICKETING_ARG1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 244,
-    "timeWeek": 412,
-    "timeMonth": 372,
+    "timeDay": 233,
+    "timeWeek": 388,
+    "timeMonth": 368,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Ticketing (ARG2)",
@@ -98,18 +100,20 @@
     "url": "$NETLINK_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "netlink",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 95,
-    "timeWeek": 316,
-    "timeMonth": 285,
-    "timeYear": 314,
-    "dailyMinutesDown": {}
+    "timeDay": 73,
+    "timeWeek": 283,
+    "timeMonth": 278,
+    "timeYear": 313,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Streame",
