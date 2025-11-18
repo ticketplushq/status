@@ -25,19 +25,19 @@
     "url": "$TICKETING_ARG1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 414,
-    "timeDay": 342,
+    "timeDay": 347,
     "timeWeek": 384,
-    "timeMonth": 369,
+    "timeMonth": 370,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-11-18": 102
+      "2025-11-18": 113
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "$TICKETING_ARG2_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-arg-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "91.69%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
     "time": 423,
-    "timeDay": 1467,
-    "timeWeek": 998,
-    "timeMonth": 569,
+    "timeDay": 1330,
+    "timeWeek": 947,
+    "timeMonth": 560,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2025-11-18": 121
+      "2025-11-18": 131
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$TICKETING_PYG1_ENDPOINT",
     "icon": "https://ticketing-assets.ticketplus.global/assets/logo-round-99223a5db65251ea5227316d3e30dbf03ac693920ffbca86b254f9508224754d.png",
     "slug": "ticketing-pyg-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "91.68%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
     "time": 387,
-    "timeDay": 348,
-    "timeWeek": 354,
-    "timeMonth": 378,
-    "timeYear": 398,
+    "timeDay": 335,
+    "timeWeek": 347,
+    "timeMonth": 375,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-11-18": 121
+      "2025-11-18": 131
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "$CASHLESS_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cashless",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 316,
-    "timeDay": 295,
-    "timeWeek": 328,
-    "timeMonth": 314,
+    "timeDay": 291,
+    "timeWeek": 323,
+    "timeMonth": 313,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-11-18": 102,
+      "2025-11-18": 112,
       "2024-11-28": 19
     }
   },
@@ -106,19 +106,19 @@
     "url": "$NETLINK_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "netlink",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "91.68%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
-    "time": 309,
-    "timeDay": 244,
-    "timeWeek": 291,
-    "timeMonth": 282,
+    "time": 310,
+    "timeDay": 253,
+    "timeWeek": 293,
+    "timeMonth": 283,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-11-18": 121
+      "2025-11-18": 131
     }
   },
   {
