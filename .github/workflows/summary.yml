@@ -27,7 +27,8 @@ concurrency:
 jobs:
   release:
     name: Generate README
-    runs-on: ubuntu-latest
+    runs-on: arc-onprem-ticketplus
+    timeout-minutes: 5
     env:
       GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
     steps:

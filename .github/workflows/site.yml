@@ -30,7 +30,8 @@ concurrency:
 jobs:
   release:
     name: Build and deploy site
-    runs-on: ubuntu-latest
+    runs-on: arc-onprem-ticketplus
+    timeout-minutes: 10
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     env:
       GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
