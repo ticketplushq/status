@@ -27,7 +27,7 @@ concurrency:
 jobs:
   release:
     name: Generate graphs
-    runs-on: arc-onprem-ticketplus
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
       GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
