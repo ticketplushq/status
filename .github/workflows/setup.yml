@@ -28,7 +28,7 @@ concurrency:
 jobs:
   release:
     name: Setup Upptime
-    runs-on: arc-onprem-ticketplus
+    runs-on: ubuntu-latest
     timeout-minutes: 5
     env:
       GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
