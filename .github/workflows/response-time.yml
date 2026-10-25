@@ -6,7 +6,7 @@
 # Your changes will be overwritten when the Upptime template updates (by default, weekly)
 # Instead, change .upptimerc.yml configuration and the workflows will be generated accordingly.
 #
-# 🔼 Upptime @v1.46.2
+# 🔼 Upptime @v1.46.4
 # GitHub-powered open-source uptime monitor and status page by Anand Chowdhary
 
 # * Source: https://github.com/upptime/upptime
@@ -28,7 +28,6 @@ jobs:
   release:
     name: Check status
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     env:
       GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
     steps:
@@ -49,7 +48,7 @@ jobs:
           ref: ${{ github.head_ref || github.ref_name }}
           token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - name: Update response time
-        uses: upptime/uptime-monitor@v1.46.2
+        uses: upptime/uptime-monitor@v1.46.4
         with:
           command: "response-time"
         env:
