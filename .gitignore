@@ -1,0 +1,4 @@
+# local Upptime status-page preview
+status-page/
+node_modules/
+preview-status*.png
